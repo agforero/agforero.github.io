@@ -1,4 +1,4 @@
-## Welcome to Agustin Forero's Github Page!
+# Agustin Forero's Github Page
 [LinkedIn](https://www.linkedin.com/in/afor/) | [Master Repository](https://github.com/agforero/agforero-git)
 
 ### Introductory video:
