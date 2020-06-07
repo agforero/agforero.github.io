@@ -1,7 +1,5 @@
 ## Welcome to Agustin Forero's Github Page!
- LinkedIn|Master Repo 
--|-
-[afor](https://www.linkedin.com/in/afor/)|[agforero-git](https://github.com/agforero/agforero-git)
+[LinkedIn](https://www.linkedin.com/in/afor/) | [Master Repository](https://github.com/agforero/agforero-git)
 
 ### Introductory video:
 Coming soon!
