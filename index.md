@@ -11,6 +11,7 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 * Python
 * Intel/ARM Assembly
 * Bash
+* HTML/CSS
 * and even a little Fortran 90!
 
 During the summer of 2020, I will be interning at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I will be researching bleeding-edge compilers and supercomputing technologies.
