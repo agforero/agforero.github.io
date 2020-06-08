@@ -3,6 +3,7 @@
 ### Introductory video:
 Coming soon!
 
+
 ### About me:
 Hey there! My name is Agustin, and I am a Computer Science and History double major at [St. Olaf College](https://wp.stolaf.edu/), class of 2021. Originally from the town of Naperville, Illinois, I am an avid software designer, working with several different languages and skills for the projects I involve myself in. So far, I have experience in the following languages:
 
@@ -15,10 +16,12 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 
 During the summer of 2020, I will be interning at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I will be researching bleeding-edge compilers and supercomputing technologies.
 
+
 ### Projects:
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
 * [chain](https://github.com/agforero/chain/): an amendable, heterogeneous data structure, coded in C++.
 * [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
+
 
 ### About me (but longer):
 I know some people just want to get to the juicy bits, so I sought to concisely list them at the top. Here, though, I can write in greater detail about who I am and what I'm passionate about.
