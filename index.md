@@ -1,4 +1,4 @@
-[Github Profile](https://github.com/agforero) | [LinkedIn](https://www.linkedin.com/in/afor/) | [Master Repository](https://github.com/agforero/agforero-git)
+[Github Profile](https://github.com/agforero) | [LinkedIn](https://www.linkedin.com/in/afor/)
 
 ### Introductory video:
 Coming soon!
@@ -18,8 +18,8 @@ During the summer of 2020, I will be interning at [Argonne National Laboratory](
 
 
 ### Projects:
-* [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
 * [chain](https://github.com/agforero/chain/): an amendable, heterogeneous data structure, coded in C++.
+* [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
 * [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
 
 
