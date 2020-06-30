@@ -11,6 +11,7 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 * Python
 * Intel/ARM Assembly
 * Bash
+* Racket
 * HTML/CSS
 * and even Fortran!
 
