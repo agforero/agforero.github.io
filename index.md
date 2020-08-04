@@ -16,8 +16,8 @@ During the summer of 2020, I will be interning at [Argonne National Laboratory](
 
 ### Projects:
 #### Projects created for Argonne:
+* [fortran-testing-framework](https://github.com/agforero/fortran-testing-framework/):  a collection of Python and Bash scripts to enable easy testing of Fortran compilers using BATS.
 * [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of STREAM meant to benchmark and graph the memory bandwidth of a supercomputer. Utilizes OpenMP.
-* [fortran-testing-framework](https://github.com/agforero/fortran-testing-framework/):  a collection of Python and Bash scripts to enable easy testing of Fortran compilers using BATS. 
 
 #### Independent Projects:
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
