@@ -21,12 +21,13 @@ During the summer of 2020, I will be interning at [Argonne National Laboratory](
 
 #### Independent Projects:
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
+* [chain](https://github.com/agforero/chain): a heterogeneous, amendable data structure for C++. (WIP)
 * [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
 
 ### About me (but longer):
 I know some people just want to get to the juicy bits, so I sought to concisely list them at the top. Here, though, I can write in greater detail about who I am and what I'm passionate about.
 
-Ever since I was little, I've had two passions: computer science, and history. My love for software grew from experimenting on  our old, beat-up Windows XP tower. Sure, my mom didn't love it when I downloaded German viruses and explored `System32`, but what else was I supposed to do without that shady copy of Polar Bowler? 
+Ever since I was little, I've had two passions: computer science, and history. My love for software grew from experimenting on  our old, beat-up Windows XP tower. Sure, my mom didn't love it when I downloaded German viruses and explored `System32`, but what else was I supposed to do without that shady copy of *Polar Bowler*? 
 
 I've also had a ceaseless interest in the world of history and political science. Games like Civilization III certainly helped propel that forward, where I spent half of my time reading the Civilopedia instead of actually playing the game. Now, it's games like Europa Universalis IV and Civilization IV that continue to bring my love of history to the screen.
 
