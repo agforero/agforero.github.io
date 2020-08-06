@@ -14,24 +14,11 @@
   text-align: center;
 }
 
-#image-cropper {
-  width: 100px;
-  height: 100px;
-  position: relative;
-  overflow: hidden;
-  border-radius: 50%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #Logo {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   border: 5px solid black;
-  display: inline;
-  margin: 0 auto;
-  margin-left: -25%; //centers the image
-  height: 100%;
-  width: auto;
 }
 
 header {
