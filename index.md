@@ -11,6 +11,7 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 
 * C/C++
 * Python
+* JavaScript
 * Bash
 * Makefile
 * Fortran
