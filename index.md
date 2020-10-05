@@ -1,7 +1,7 @@
 [Github Profile](https://github.com/agforero) | [LinkedIn](https://www.linkedin.com/in/afor/)
 
 ### Seminar at Argonne:
-[![My Talk at Argonne](http://img.youtube.com/vi/iNEwXP_pYqg/0.jpg)](https://www.youtube.com/watch?v=iNEwXP_pYqg "My Talk at Argonne")
+[![My Talk at Argonne](ioytthumb.png)](https://www.youtube.com/watch?v=iNEwXP_pYqg "My Talk at Argonne")
 
 (Click to play!)
 
