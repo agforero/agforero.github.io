@@ -19,7 +19,7 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 * Intel/ARM Assembly
 * HTML5/CSS
 
-During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two PhDs' to build tools for researching bleeding-edge compilers and supercomputing technologies.
+During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two PhD's to build tools for researching bleeding-edge compilers and supercomputing technologies.
 
 
 ### Projects:
