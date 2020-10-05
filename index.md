@@ -19,13 +19,13 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 * Intel/ARM Assembly
 * HTML5/CSS
 
-During the summer of 2020, I will be interning at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I will be researching bleeding-edge compilers and supercomputing technologies.
+During the summer of 2020, I will be interning at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two PhDs' to build tools for researching bleeding-edge compilers and supercomputing technologies.
 
 
 ### Projects:
 #### Projects created for Argonne:
-* [Fortran Testing Framework](https://github.com/agforero/FTFramework):  a collection of Python and Bash scripts to enable easy testing of Fortran compilers using BATS.
-* [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of STREAM meant to benchmark and graph the memory bandwidth of a supercomputer. Utilizes OpenMP.
+* [Fortran Testing Framework](https://github.com/agforero/FTFramework): a collection of Python and Bash scripts to enable easy testing of Fortran compilers using [BATS](https://github.com/bats-core/bats-core).
+* [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of [STREAM](https://github.com/jeffhammond/STREAM) meant to benchmark and graph the memory bandwidth of a supercomputer. Utilizes OpenMP.
 
 #### Independent Projects:
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
