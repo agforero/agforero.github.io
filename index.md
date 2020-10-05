@@ -14,7 +14,7 @@ Hey there! My name is Agustin, and I am a Computer Science and History double ma
 * JavaScript
 * React.js
 * Bash
-* Makefile
+* GNU Make
 * Fortran
 * Intel/ARM Assembly
 * HTML5/CSS
