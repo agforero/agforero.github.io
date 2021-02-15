@@ -17,15 +17,21 @@ Hey there! My name is Agustin, and I am a computer science and history double ma
 * Intel/ARM Assembly
 * HTML5/CSS
 
-During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two PhD's to build tools for researching bleeding-edge compilers and supercomputing technologies.
+During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two Computational Scientists to build tools for researching bleeding-edge compilers and supercomputing technologies. 
+
+Then, from December 2020 to January 2021, I worked as a Research Assistant at UW-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed a GUI suite based in Tkinter that makes it easy to generate a graph of connections stemming from a specific protein.
 
 
 ### Projects:
-#### Projects created for Argonne:
+#### Argonne:
 * [Fortran Testing Framework](https://github.com/agforero/FTFramework): a collection of Python and Bash scripts to enable easy testing of Fortran compilers using [BATS](https://github.com/bats-core/bats-core).
 * [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of [STREAM](https://github.com/jeffhammond/STREAM) meant to benchmark and graph the memory bandwidth of a supercomputer. Utilizes OpenMP.
 
-#### Independent Projects:
+#### UW-Madison:
+* Protein Analysis Tool: a Tkinter-based GUI that allows a user to generate graphs of connections from a starting protein, including interactions with other human proteins, or SARS-CoV-2 proteins important in its infection process.
+* Protein Clustering Heatmap: using a binary sorting algorithm, this Seaborn-based heatmap clusters proteins together based on their presence in different combinations of studies, cell lines and timestamps. Allows biologists to find visually find groups of proteins with similar significance in studies.
+
+#### Independent:
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
 * [chain](https://github.com/agforero/chain): a heterogeneous, amendable data structure for C++. (WIP)
 * [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
