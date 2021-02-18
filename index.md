@@ -25,7 +25,7 @@ Then, from December 2020 to January 2021, I worked as a Research Assistant at UW
 ### Projects:
 #### Argonne:
 * [Fortran Testing Framework](https://github.com/agforero/FTFramework): a collection of Python and Bash scripts to enable easy testing of Fortran compilers using [BATS](https://github.com/bats-core/bats-core).
-* [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of [STREAM](https://github.com/jeffhammond/STREAM) meant to benchmark and graph the memory bandwidth of a supercomputer. Utilizes OpenMP.
+* [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of [STREAM](https://github.com/jeffhammond/STREAM) meant to benchmark and visualize the memory bandwidth of a supercomputer. Utilizes OpenMP.
 
 #### UW-Madison:
 * [Protein Analysis Tool](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis): a Tkinter-based GUI that allows a user to generate graphs of connections from a starting protein, including interactions with other human proteins, or SARS-CoV-2 proteins important in its infection process.
