@@ -17,7 +17,7 @@ Hey there! My name is Agustin, and I am a computer science and history double ma
 * Intel/ARM Assembly
 * HTML5/CSS
 
-During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two Computational Scientists to build tools for researching bleeding-edge compilers and supercomputing technologies. 
+During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two computational scientists to build tools for researching bleeding-edge compilers and supercomputing technologies. 
 
 Then, from December 2020 to January 2021, I worked as a Research Assistant at UW-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed a GUI suite based in Tkinter that makes it easy to generate a graph of connections stemming from a specific protein.
 
