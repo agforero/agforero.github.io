@@ -21,7 +21,7 @@ During the summer of 2020, I interned at [Argonne National Laboratory](https://w
 
 Then, from December 2020 to January 2021, I worked as a Research Assistant at UW-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed a GUI suite based in Tkinter that makes it easy to generate a graph of connections stemming from a specific protein.
 
-I will be attending Cornell Tech for my Master of Engineering in Computer Science from 2021 to 2022. I am incredibly excited to be a part of Cornell University's network!!
+I will be attending Cornell Tech for my Master of Engineering in Computer Science from 2021 to 2022. I am incredibly excited to be a part of Cornell University's network of software engineers!
 
 ### Projects:
 #### Argonne:
