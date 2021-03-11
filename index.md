@@ -13,7 +13,7 @@ Hey there! My name is Agustin, and I am a computer science and history double ma
 * React.js
 * Bash
 * GNU Make
-* Fortran
+* FORTRAN
 * Intel/ARM Assembly
 * HTML5/CSS
 
