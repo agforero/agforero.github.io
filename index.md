@@ -19,7 +19,7 @@ Hey there! My name is Agustin, and I am a computer science and history double ma
 
 During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two computational scientists to build tools for researching bleeding-edge compilers and supercomputing technologies. 
 
-Then, from December 2020 to January 2021, I worked as a Research Assistant at UW-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed a GUI suite based in Tkinter that makes it easy to generate a graph of connections stemming from a specific protein.
+Then, from December 2020 to January 2021, I worked as a Research Assistant at UW-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed [a GUI suite based in Tkinter](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis) that makes it easy to generate a graph of connections stemming from a specific protein.
 
 I will be attending [Cornell Tech](https://www.tech.cornell.edu/) for my Master of Engineering in Computer Science from 2021 to 2022.
 
