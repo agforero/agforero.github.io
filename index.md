@@ -43,7 +43,7 @@ For the summer of 2021, I will be an AI Instructor at [Inspirit AI](https://www.
 * [chain](https://github.com/agforero/chain): a heterogeneous, amendable data structure for C++. (WIP)
 * [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
 
-### About me (but longer):
+### More about me:
 I know some people just want to get to the juicy bits, so I sought to concisely list them at the top. Here, though, I can write in greater detail about who I am and what I'm passionate about.
 
 Ever since I was little, I've had two passions: computer science, and history. My love for software grew from experimenting on  our old, beat-up Windows XP tower. Sure, my mom didn't love it when I downloaded German viruses and explored `System32`, but what else was I supposed to do without that shady copy of *Polar Bowler*? 
