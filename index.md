@@ -35,7 +35,7 @@ For the summer of 2021, I will be an AI Instructor at [Inspirit AI](https://www.
 * [Protein Clustering Heatmap](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/Heatmap): using a binary sorting algorithm, this Seaborn-based heatmap clusters proteins together based on their presence in different combinations of studies, cell lines and timestamps. Allows biologists to find visually find groups of proteins with similar significance in studies. *(Seriously, the sorting algorithm is pretty cool, and I came up with it myself; even if someone has done something similar before, you should check out the [README](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/blob/main/code/Heatmap/README.md#how-clusters-are-arranged) to see how it works).*
 
 #### St. Olaf College:
-* [Oleville.com](https://www.oleville.com/): a ground-up rework of the St. Olaf Student Government Association's website, done on Wix.
+* [Oleville.com](https://www.oleville.com/): a rework of the St. Olaf Student Government Association's website, done on Wix.
 * [OleGraph](https://github.com/agforero/Capstone-2020): the Capstone project for my senior year, investigating the application of collaboration in graph traversal algorithm teaching tools.
 
 #### Independent:
