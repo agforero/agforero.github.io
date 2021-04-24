@@ -19,18 +19,18 @@ Hey there! My name is Agustin, and I am a computer science and history double ma
 
 During the summer of 2020, I interned at [Argonne National Laboratory](https://www.anl.gov) as a Research Aide at the [Leadership Computing Facility](https://www.alcf.anl.gov/). I worked alongside two computational scientists to build tools for researching bleeding-edge compilers and supercomputing technologies. 
 
-Then, from December 2020 to January 2021, I worked as a Research Assistant at UW-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed [a GUI suite based in Tkinter](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis) that makes it easy to generate a graph of connections stemming from a specific protein.
+Then, from December 2020 to January 2021, I worked as a Research Assistant at the University of Wisconsin-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed [a GUI suite based in Tkinter](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis) that makes it easy to generate a graph of connections stemming from a specific protein.
 
 During my time at St. Olaf, I was appointed Chief Technology Officer of the Student Government Association, where I used Wix to develop [a new website for SGA](https://www.oleville.com/) from the ground up. I spent 6 semesters at the College grading, tutoring, and [teaching](https://github.com/agforero/SI-PLANNING) the introductory Python course. As a senior, my [Capstone](https://github.com/agforero/Capstone-2020) was a research project investigating the importance of collaboration in the development of tools that teach graph traversal algorithms.
 
 For the summer of 2021, I will be an AI Instructor at [Inspirit AI](https://www.inspiritai.com/), teaching high schoolers about the implementation, applications and ethics of contemporary artificial intelligence. I will be attending [Cornell Tech](https://www.tech.cornell.edu/) for my Master of Engineering in Computer Science from 2021 to 2022.
 
 ### Projects:
-#### Argonne:
+#### Argonne National Laboratory:
 * [Fortran Testing Framework](https://github.com/agforero/FTFramework): a collection of Python and Bash scripts to enable easy testing of Fortran compilers using [BATS](https://github.com/bats-core/bats-core).
 * [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of [STREAM](https://github.com/jeffhammond/STREAM) meant to benchmark and visualize the memory bandwidth of a supercomputer. Utilizes OpenMP.
 
-#### UW-Madison:
+#### University of Wisconsin-Madison:
 * [Protein Analysis Tool](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis): a Tkinter-based GUI that helps UW-Madison virologists generate graphs of proteins important in the SARS-CoV-2 infection process.
 * [Protein Clustering Heatmap](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/Heatmap): using a binary sorting algorithm, this Seaborn-based heatmap clusters proteins together based on their presence in different combinations of studies, cell lines and timestamps. Allows biologists to find visually find groups of proteins with similar significance in studies. *(Seriously, the sorting algorithm is pretty cool, and I came up with it myself; even if someone has done something similar before, you should check out the [README](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/blob/main/code/Heatmap/README.md#how-clusters-are-arranged) to see how it works).*
 
