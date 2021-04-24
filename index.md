@@ -31,7 +31,7 @@ For the summer of 2021, I will be an AI Instructor at [Inspirit AI](https://www.
 * [nSTREAM](https://github.com/agforero/nSTREAM/): a fork of [STREAM](https://github.com/jeffhammond/STREAM) meant to benchmark and visualize the memory bandwidth of a supercomputer. Utilizes OpenMP.
 
 #### UW-Madison:
-* [Protein Analysis Tool](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis): a Tkinter-based GUI that allows a user to generate graphs of connections from a starting protein, including interactions with other human proteins, or SARS-CoV-2 proteins important in its infection process.
+* [Protein Analysis Tool](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis): a Tkinter-based GUI that helps UW-Madison virologists generate graphs of proteins important in the SARS-CoV-2 infection process.
 * [Protein Clustering Heatmap](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/Heatmap): using a binary sorting algorithm, this Seaborn-based heatmap clusters proteins together based on their presence in different combinations of studies, cell lines and timestamps. Allows biologists to find visually find groups of proteins with similar significance in studies. *(Seriously, the sorting algorithm is pretty cool, and I came up with it myself; even if someone has done something similar before, you should check out the [README](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/blob/main/code/Heatmap/README.md#how-clusters-are-arranged) to see how it works).*
 
 #### St. Olaf College:
