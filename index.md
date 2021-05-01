@@ -23,7 +23,7 @@ Then, from December 2020 to January 2021, I worked as a Research Assistant at th
 
 During my time at St. Olaf, I was appointed Chief Technology Officer of the Student Government Association, where I used Wix to develop [a new website for SGA](https://www.oleville.com/) from the ground up. I spent 6 semesters at the College grading, tutoring, and [teaching](https://github.com/agforero/SI-PLANNING) the introductory Python course. As a senior, my [Capstone](https://github.com/agforero/Capstone-2020) was a research project investigating the importance of collaboration in the development of tools that teach graph traversal algorithms.
 
-For the summer of 2021, I will be an AI Instructor at [Inspirit AI](https://www.inspiritai.com/), teaching high schoolers about the implementation, applications and ethics of contemporary artificial intelligence. I will be attending [Cornell Tech](https://www.tech.cornell.edu/) for my Master of Engineering in Computer Science from 2021 to 2022.
+I will be attending [Cornell Tech](https://www.tech.cornell.edu/) for my Master of Engineering in Computer Science from 2021 to 2022.
 
 ### Projects:
 #### Argonne National Laboratory:
