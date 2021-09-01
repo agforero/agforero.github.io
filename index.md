@@ -5,7 +5,7 @@
 
 
 ### About me:
-Hey there! My name is Agustin, and I am a computer science and history double major at [St. Olaf College](https://wp.stolaf.edu/), class of 2021. Originally from the town of Naperville, Illinois, I am an avid software designer, working with several different languages and skills for the projects I involve myself in. So far, I have experience in the following languages:
+Hey there! My name is Agustin, and I am a Master of Engineering of Computer Science at Cornell Tech, the Cornell University campus in Manhattan, NY. I was a Computer Science and History double major at [St. Olaf College](https://wp.stolaf.edu/), class of 2021. Originally from the town of Naperville, Illinois, I am an avid software designer, working with several different languages and skills for the projects I involve myself in. So far, I have experience in the following languages:
 
 * C/C++
 * Python
@@ -22,8 +22,6 @@ During the summer of 2020, I interned at [Argonne National Laboratory](https://w
 Then, from December 2020 to January 2021, I worked as a Research Assistant at the University of Wisconsin-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed [a GUI suite based in Tkinter](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis) that makes it easy to generate a graph of connections stemming from a specific protein.
 
 During my time at St. Olaf, I was appointed Chief Technology Officer of the Student Government Association, where I used Wix to develop [a new website for SGA](https://www.oleville.com/) from the ground up. I spent 6 semesters at the College grading, tutoring, and [teaching](https://github.com/agforero/SI-PLANNING) the introductory Python course. As a senior, my [Capstone](https://github.com/agforero/Capstone-2020) was a research project investigating the importance of collaboration in the development of tools that teach graph traversal algorithms.
-
-I will be attending [Cornell Tech](https://www.tech.cornell.edu/) for my Master of Engineering in Computer Science from 2021 to 2022.
 
 ### Projects:
 #### Argonne National Laboratory:
