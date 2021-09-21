@@ -35,11 +35,11 @@ During my time at St. Olaf, I was appointed Chief Technology Officer of the Stud
 #### St. Olaf College:
 * [Oleville.com](https://www.oleville.com/): a rework of the St. Olaf Student Government Association's website, done on Wix.
 * [OleGraph](https://github.com/agforero/Capstone-2020): the Capstone project for my senior year, investigating the application of collaboration in graph traversal algorithm teaching tools.
+* [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
 
 #### Independent:
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
 * [chain](https://github.com/agforero/chain): a heterogeneous, amendable data structure for C++. (WIP)
-* [SI-PLANNING](https://github.com/agforero/SI-PLANNING/): a repo holding all my TA lesson plans from the spring of 2020.
 
 ### More about me:
 Ever since I was little, I've had two passions: computer science and history. My love for software grew from experimenting on  our old, beat-up Windows XP tower. Sure, my mom didn't love it when I downloaded German viruses and explored `System32`, but what else was I supposed to do without that shady copy of *Polar Bowler*? 
