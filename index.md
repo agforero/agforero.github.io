@@ -1,4 +1,4 @@
-[Github Profile](https://github.com/agforero) | [LinkedIn](https://www.linkedin.com/in/afor/)
+[Github Profile](https://github.com/agforero) | [LinkedIn](https://www.linkedin.com/in/afor/) | [Email](mailto:agf48@cornell.edu)
 
 ### Seminar at Argonne:
 [![My Talk at Argonne](ioytthumb.png)](https://www.youtube.com/watch?v=iNEwXP_pYqg "My Talk at Argonne")
