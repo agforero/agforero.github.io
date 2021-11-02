@@ -21,7 +21,7 @@ During the summer of 2020, I interned at [Argonne National Laboratory](https://w
 
 Then, from December 2020 to January 2021, I worked as a Research Assistant at the University of Wisconsin-Madison's Biostatistics and Medical Informatics Department to run graph analysis on interactions between human proteins and SARS-CoV-2 proteins. I developed [a GUI suite based in Tkinter](https://github.com/Craven-Biostat-Lab/SARS-CoV-2-Analysis/tree/main/code/GraphAnalysis) that makes it easy to generate a graph of connections stemming from a specific protein.
 
-During my time at St. Olaf, I was appointed Chief Technology Officer of the Student Government Association, where I used Wix to develop [a new website for SGA](https://www.oleville.com/) from the ground up. I spent 6 semesters at the College grading, tutoring, and [teaching](https://github.com/agforero/SI-PLANNING) the introductory Python course. As a senior, my [Capstone](https://github.com/agforero/Capstone-2020) was a research project investigating the importance of collaboration in the development of tools that teach graph traversal algorithms.
+During my time at St. Olaf, I was appointed Chief Technology Officer of the Student Government Association, where I used Wix to develop [a new website for SGA](https://www.oleville.com/) from the ground up. I spent 6 semesters at the College grading, tutoring, and [teaching](https://github.com/agforero/SI-PLANNING) the introductory Python course, Principles of Computer Science (CS 121). As a senior, my [Capstone](https://github.com/agforero/Capstone-2020) was a research project investigating the importance of collaboration in the development of tools that teach graph traversal algorithms.
 
 ### Projects:
 #### Argonne National Laboratory:
