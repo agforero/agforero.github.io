@@ -23,6 +23,8 @@ Then, from December 2020 to January 2021, I worked as a Research Assistant at th
 
 During my time at St. Olaf, I was appointed Chief Technology Officer of the Student Government Association, where I used Wix to develop [a new website for SGA](https://www.oleville.com/) from the ground up. I spent 6 semesters at the College grading, tutoring, and [teaching](https://github.com/agforero/SI-PLANNING) the introductory Python course, Principles of Computer Science (CS 121). As a senior, my [Capstone](https://github.com/agforero/Capstone-2020) was a research project investigating the importance of collaboration in the development of tools that teach graph traversal algorithms.
 
+Now, I attend Cornell Tech in New York City, working to complete my Master of Engineering in Computer Science. I am set to graduate in May of 2022. Thereafter, I will begin working as a Software Engineer at [InterSystems Corporation](https://www.intersystems.com/), located in Cambridge, Massachusetts. I look forward to beginning my professional career within their Solutions Development Program.
+
 ### Projects:
 #### Argonne National Laboratory:
 * [Fortran Testing Framework](https://github.com/agforero/FTFramework): a collection of Python and Bash scripts to enable easy testing of Fortran compilers using [BATS](https://github.com/bats-core/bats-core).
