@@ -50,6 +50,14 @@ I've also had a ceaseless interest in the world of history and political science
 
 I have a great appreciation for the creation of patterns, the efficiency of algorithms and the conciseness of operations. I have always held 4X games dear for their ability to elegantly envelop users in an intricate world of strategy based around real-life nations and figureheads. Whether it's in the field of history or not, I hope to one day create software that is widely applicable, easily understood, and readily adaptable.
 
+### Some other fun facts about me!!
+
+* I'm Greek and Colombian. You'll probably never meet another Greek Colombian in your life, unless you meet my siblings or something.
+* I'm really into birdwatching. My favorite species of bird is the Black-Capped Chickadee. 
+  * This also coincides with my interest in photography, and a photograph of a Bufflehead duck I got in Washington [was featured as the Parting Shot of the St. Olaf Magazine](https://wp.stolaf.edu/magazine/files/2019/07/St-Olaf-Magazine_SpringSummer-2019.pdf)! (Scroll down all the way to see it).
+* I have a big rock collection. I've been collecting it since I was 6 or something.
+* I can sing kinda well. I've been trying to make music lately. Might release something soon.
+
 ---
 
 *Hosted on GitHub Pages. Theme by [orderedlist](https://github.com/orderedlist).*
