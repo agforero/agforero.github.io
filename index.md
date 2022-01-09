@@ -52,7 +52,7 @@ I have a great appreciation for the creation of patterns, the efficiency of algo
 
 ### Some other fun facts about me!
 
-* I'm Greek and Colombian. You'll probably never meet another Greek Colombian in your life, unless you meet my siblings or something. 🇬🇷 🇨🇴
+* I'm Greek and Colombian. You'll probably never meet another Greek Colombian in your life, unless you meet my siblings. 🇬🇷 🇨🇴
 * I'm really into birdwatching. My favorite species of bird is the Black-Capped Chickadee. 
 * Birdwatching also intersects with my interest in photography. A photograph of a Bufflehead duck I got in Washington [was featured in the St. Olaf Magazine](https://wp.stolaf.edu/magazine/files/2019/07/St-Olaf-Magazine_SpringSummer-2019.pdf#page=27)! Scroll down all the way to see it.
 * I have a big rock collection. I've been collecting it since I was 6 or something.
