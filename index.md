@@ -13,7 +13,7 @@ Hey there! My name is Agustin, and I am a Master of Engineering in Computer Scie
 * React.js
 * Bash
 * GNU Make
-* FORTRAN
+* Fortran
 * Intel/ARM Assembly
 * HTML5/CSS
 
