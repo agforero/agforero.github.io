@@ -54,7 +54,7 @@ I have a great appreciation for the creation of patterns, the efficiency of algo
 
 * I'm Greek and Colombian. You'll probably never meet another Greek Colombian in your life, unless you meet my siblings. 🇬🇷 🇨🇴
 * I'm really into birdwatching. My favorite species of bird is the Black-Capped Chickadee. 
-* Birdwatching also intersects with my interest in photography. My photograph of a Bufflehead duck in Chelan, Washington [was featured in the St. Olaf Magazine](https://wp.stolaf.edu/magazine/files/2019/07/St-Olaf-Magazine_SpringSummer-2019.pdf#page=27)! Scroll down all the way to see it.
+* Birdwatching also intersects with my interest in photography. My photograph of a bufflehead duck in Chelan, Washington [was featured in the St. Olaf Magazine](https://wp.stolaf.edu/magazine/files/2019/07/St-Olaf-Magazine_SpringSummer-2019.pdf#page=27)! Scroll down all the way to see it.
 * I have a big rock collection. I've been collecting it since I was 6 or something.
 * I can sing kinda well. I've been trying to make music lately. Might release something soon.
 
