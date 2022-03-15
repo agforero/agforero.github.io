@@ -56,8 +56,30 @@ I have a great appreciation for the creation of patterns, the efficiency of algo
 * I'm really into birdwatching. My favorite species of bird is the Black-Capped Chickadee. 
 * Birdwatching also intersects with my interest in photography. My photograph of a bufflehead duck in Chelan, Washington [was featured in the St. Olaf Magazine](https://wp.stolaf.edu/magazine/files/2019/07/St-Olaf-Magazine_SpringSummer-2019.pdf#page=27)! Scroll down all the way to see it.
 * I have a big rock collection. I've been collecting it since I was 6 or something.
-* My favorite video game is Dark Souls. The combat is absolutely not perfect, and there are notoriously bad bugs throughout, but it's a masterpiece. Enough of a masterpiece that I feel the need to say this on my personal page. Anyways...
 * I can sing kinda well. I've been trying to make music lately. Might release something soon.
+
+### You've reached the bottom of the website! Now I will list out things I'd consider "my favorite."
+
+You aren't very likely to care about this, but I'm putting this anyway. It's my website, after all >:)
+
+* *Some of my favorite movies are...*
+  * Call Me by Your Name
+  * Collateral
+  * City of God
+  * The Last Emperor
+  * Stalker
+* *Some of my favorite albums are...*
+  * Carrie and Lowell - Sufjan Stevens
+  * MAGDALENE - FKA twigs
+  * To Pimp A Butterfly - Kendrick Lamar
+  * Merriweather Post Pavilion - Animal Collective
+  * Blonde - Frank Ocean
+* *Some of my favorite video games are...*
+  * Dark Souls (my all-time favorite)!
+  * Civilization 4
+  * Europa Universalis 4
+  * Bloodborne
+  * Pokémon Black/White 2
 
 ---
 
