@@ -58,7 +58,7 @@ I have a great appreciation for the creation of patterns, the efficiency of algo
 * I have a big rock collection. I've been collecting it since I was 6 or something.
 * I can sing kinda well. I've been trying to make music lately. Might release something soon.
 
-### You've reached the bottom of the website! Now I will list out things I'd consider "my favorite."
+### You've reached the bottom of the website! Now I'll list out things I'd consider "my favorite."
 
 You aren't very likely to care about this, but I'm putting this anyway. It's my website, after all >:)
 
