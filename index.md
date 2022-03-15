@@ -56,6 +56,7 @@ I have a great appreciation for the creation of patterns, the efficiency of algo
 * I'm really into birdwatching. My favorite species of bird is the Black-Capped Chickadee. 
 * Birdwatching also intersects with my interest in photography. My photograph of a bufflehead duck in Chelan, Washington [was featured in the St. Olaf Magazine](https://wp.stolaf.edu/magazine/files/2019/07/St-Olaf-Magazine_SpringSummer-2019.pdf#page=27)! Scroll down all the way to see it.
 * I have a big rock collection. I've been collecting it since I was 6 or something.
+* My favorite video game is Dark Souls. The combat is absolutely not perfect, and there are notoriously bad bugs throughout, but it's a masterpiece. Enough of a masterpiece that I feel the need to say this on my personal page. Anyways...
 * I can sing kinda well. I've been trying to make music lately. Might release something soon.
 
 ---
