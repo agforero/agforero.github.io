@@ -60,7 +60,7 @@ I have a great appreciation for the creation of patterns, the efficiency of algo
 
 ### You've reached the bottom of the website! Now I'll list out things I'd consider "my favorite."
 
-You aren't very likely to care about this, but I'm putting this anyway. It's my website, after all. >:)
+You aren't very likely to care about this, but I'm putting this anyway. It's my website, after all.
 
 * *Some of my favorite movies are...*
   * Call Me by Your Name
