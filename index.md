@@ -6,7 +6,7 @@
 ### Quick facts:
 * 💼 Will begin work as a software designer at InterSystems Corporation in Cambridge, MA in July
 * 🐻 Studying my MEng in Computer Science at Cornell Tech (Cornell University campus in NYC)
-* 🦁 Went to St. Olaf College for my BAs in History and Computer Science
+* 🦁 Went to St. Olaf College for my BA Double Major in History and Computer Science
 * 💻 Interned at Argonne National Laboratory in 2020 researching compilers and computational science
 * 🧪 Interned at University of Wisconsin-Madison with their virology department, running data analysis and visualization on COVID data
 * 👨‍🔬 Member of the Society for Industrial and Applied Mathematics since 2020
