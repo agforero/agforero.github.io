@@ -3,7 +3,7 @@
 ### Seminar at Argonne:
 [![My Talk at Argonne](ioytthumb.png)](https://www.youtube.com/watch?v=iNEwXP_pYqg "My Talk at Argonne")
 
-### Some quick facts:
+### Quick facts:
 * 💼 Will begin work as a software designer at InterSystems Corporation in Cambridge, MA in July
 * 🐻 Studying my MEng in Computer Science at Cornell Tech (Cornell University campus in NYC)
 * 🦁 Went to St. Olaf College for my BAs in History and Computer Science
