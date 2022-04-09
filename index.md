@@ -53,7 +53,7 @@ Now, I attend Cornell Tech in New York City, working to complete my Master of En
 * [TMinesweeper](https://github.com/agforero/TMinesweeper/): a terminal-based Minesweeper game, coded in C++.
 * [chain](https://github.com/agforero/chain): a heterogeneous, amendable data structure for C++. (WIP)
 
-### More about me:
+### My story:
 Ever since I was little, I've had two passions: computer science and history. My love for software grew from experimenting on  our old, beat-up Windows XP tower. Sure, my mom didn't love it when I downloaded German viruses and explored `System32`, but what else was I supposed to do without that shady copy of *Polar Bowler*? 
 
 I've also had a ceaseless interest in the world of history and political science. Games like *Civilization III* certainly helped propel that forward, where I spent half of my time reading the *Civilopedia* instead of actually playing the game. Now, it's games like *Europa Universalis IV* and *Civilization* that continue to bring my love of history to the screen.
