@@ -58,7 +58,7 @@ Ever since I was little, I've had two passions: computer science and history. My
 
 I've also had a ceaseless interest in the world of history and political science. Games like *Civilization III* certainly helped propel that forward, where I spent half of my time reading the *Civilopedia* instead of actually playing the game. Now, it's games like *Europa Universalis IV* and *Civilization* that continue to bring my love of history to the screen.
 
-I have a great appreciation for the creation of patterns, the efficiency of algorithms and the conciseness of operations. I have always held 4X games dear for their ability to elegantly envelop users in an intricate world of strategy based around real-life nations and figureheads. Whether it's in the field of history or not, I hope to one day create software that is widely applicable, easily understood, and readily adaptable.
+I have a great appreciation for the creation of patterns, the efficiency of algorithms and the conciseness of operations. I have always held 4X games dear for their ability to elegantly envelop users in an intricate world of strategy based around real-life nations and figureheads. Within the field of history or not, I aim to create software that is widely applicable, easily understood, and readily adaptable.
 
 ### Some other fun facts about me!
 
