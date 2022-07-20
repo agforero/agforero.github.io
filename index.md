@@ -4,7 +4,7 @@
 [![My Talk at Argonne](ioytthumb.png)](https://www.youtube.com/watch?v=iNEwXP_pYqg "My Talk at Argonne")
 
 ### Quick facts:
-* 💼 Will begin work as a software designer at InterSystems Corporation in Cambridge, MA in July
+* 💼 Software Developer at [InterSystems, Inc.](https://www.intersystems.com/) in Cambridge, MA
 * 🐻 Studied my MEng in Computer Science at Cornell Tech (Cornell University campus in NYC)
 * 🦁 Studied at St. Olaf College for my BA Double Major in History and Computer Science
 * 💻 Interned at Argonne National Laboratory in 2020 researching compilers and computational science
